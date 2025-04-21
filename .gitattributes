@@ -1,0 +1,2 @@
+internship_setubal/ filter=lfs diff=lfs merge=lfs -text
+internship_setubal/Library/PackageCache/com.unity.collections@56bff8827a7e/Unity.Collections.LowLevel.ILSupport/source~/Unity.Collections.LowLevel.ILSupport.CodeGen/CollectionsUnsafeUtilityPostProcessor.cs filter=lfs diff=lfs merge=lfs -text
